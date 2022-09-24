@@ -1,4 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster <br />
+&emsp;This project is about predicting if someone in the Titanic Disaster will survive or not.<br/>
 &emsp;1- I have described the data i got from kaggle.<br />
 &emsp;2- I have visualized the relations between dependent variable and independent variables.<br />
 &emsp;3- I have shown the percentage of men and Women who survived.<br />
