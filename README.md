@@ -1,5 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster <br />
-&emsp 1- I have described the data i got from kaggle.<br />
+&tab 1- I have described the data i got from kaggle.<br />
 2- I have visualized the relations between dependent variable and independent variables.<br />
 3- I have shown the percentage of men and Women who survived.<br />
 4- I have done feature selection.<br />
