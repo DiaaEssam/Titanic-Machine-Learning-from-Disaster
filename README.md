@@ -8,6 +8,6 @@
 &emsp;&emsp;&emsp;5- I have done data preprocessing.<br />
 &emsp;&emsp;&emsp;6- I have done Feature Scaling.<br />
 &emsp;&emsp;&emsp;7- I have applied Kernel PCA.<br />
-&emsp;&emsp;&emsp;8- I have used various machine learning models such as Logistic Regression, Random Forest, Kernel SVM,&emsp;&emsp;&emsp; &emsp; and etc.<br />
+&emsp;&emsp;&emsp;8- I have used various machine learning models such as Logistic Regression, Random Forest, Kernel &emsp;&emsp;&emsp; &emsp; SVM, and etc.<br />
 &emsp;&emsp;&emsp;9- The best accuracy i got was 0.816 from Logistic Regression model.<br />
 &emsp;&emsp;&emsp;10- I got 0.76 accuracy in kaggle Leaderboard.<br />
