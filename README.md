@@ -8,4 +8,4 @@ I have done Feature Scaling.
 I have applied Kernel PCA.
 I have used various machine learning models such as Logistic Regression, Random Forest, Kernel SVM, and etc.
 The best accuracy i got was 0.816 from Logistic Regression model.
-I got 0.76 accuracy in kaggle Leaderboard
+I got 0.76 accuracy in kaggle Leaderboard.
