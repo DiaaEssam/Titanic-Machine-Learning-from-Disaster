@@ -11,3 +11,4 @@
 &emsp;&emsp;&emsp;8- I have used various machine learning models such as Logistic Regression, Random Forest, Kernel &nbsp;&nbsp;&emsp;&emsp;&emsp; &emsp; SVM,etc.<br />
 &emsp;&emsp;&emsp;9- The best accuracy I got is 0.833 from the Kernel SVM model.<br />
 &emsp;&emsp;&emsp;10- I got 0.782 accuracy on Kaggle Leaderboard.<br />
+&emsp;&emsp;&emsp;11- I'm in top 18% in this competition.<br/>
