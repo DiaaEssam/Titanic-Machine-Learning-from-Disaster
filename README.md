@@ -9,5 +9,5 @@
 &emsp;&emsp;&emsp;6- I have done Feature Scaling.<br />
 &emsp;&emsp;&emsp;7- I have applied Kernel PCA.<br />
 &emsp;&emsp;&emsp;8- I have used various machine learning models such as Logistic Regression, Random Forest, Kernel &nbsp;&nbsp;&emsp;&emsp;&emsp; &emsp; SVM,etc.<br />
-&emsp;&emsp;&emsp;9- The best accuracy I got was 0.816 from the Logistic Regression model.<br />
-&emsp;&emsp;&emsp;10- I got 0.76 accuracy on Kaggle Leaderboard.<br />
+&emsp;&emsp;&emsp;9- The best accuracy I got was 0.833 from the Kernel SVM.<br />
+&emsp;&emsp;&emsp;10- I got 0.782 accuracy on Kaggle Leaderboard.<br />
