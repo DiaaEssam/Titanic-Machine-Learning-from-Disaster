@@ -1,5 +1,7 @@
 # Titanic-Machine-Learning-from-Disaster <br />
-![alt text](https://impm.org/wp-content/uploads/2020/04/titanic-1.jpg/to/img.png)
+<p align="center">
+  <img src="https://impm.org/wp-content/uploads/2020/04/titanic-1.jpg" width="350" title="hover text">
+</p>
 &emsp;<strong>This project is about predicting if passenger in the Titanic Disaster will survive or not.<strong/><br/>
 &emsp;&emsp;List of what I have done:<br/>
 &emsp;&emsp;&emsp;1- I have described the data I got from Kaggle.<br />
