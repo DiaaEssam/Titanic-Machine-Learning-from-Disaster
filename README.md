@@ -10,6 +10,6 @@
 &emsp;&emsp;&emsp;7- I have applied Kernel PCA.<br />
 &emsp;&emsp;&emsp;8- I have used K-Fold Cross Validation.<br />
 &emsp;&emsp;&emsp;9- I have used various machine learning models such as Logistic Regression, Random Forest, Kernel &nbsp;&nbsp;&emsp;&emsp;&emsp; &emsp; SVM,etc.<br />
-&emsp;&emsp;&emsp;10- The best accuracy I got is 0.835 from the Kernel SVM model.<br />
+&emsp;&emsp;&emsp;10- The best accuracy I got is 0.836 from the Kernel SVM model.<br />
 &emsp;&emsp;&emsp;11- I got 0.782 accuracy on Kaggle Leaderboard.<br />
 &emsp;&emsp;&emsp;12- I'm in top 18% in this competition.<br/>
