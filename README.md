@@ -1,5 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster <br />
-![alt text](http://https://www.google.com/url?sa=i&url=https%3A%2F%2Fimpm.org%2Freflections-on-the-root-causes-of-the-titanic-disaster-14-15th-april-1912&psig=AOvVaw2qWiycdkzA4G_CawcPUZT0&ust=1664487170773000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCi0ou4uPoCFQAAAAAdAAAAABAD/to/img.png)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimpm.org%2Freflections-on-the-root-causes-of-the-titanic-disaster-14-15th-april-1912&psig=AOvVaw2qWiycdkzA4G_CawcPUZT0&ust=1664487170773000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCi0ou4uPoCFQAAAAAdAAAAABAD/to/img.png)
 &emsp;<strong>This project is about predicting if passenger in the Titanic Disaster will survive or not.<strong/><br/>
 &emsp;&emsp;List of what I have done:<br/>
 &emsp;&emsp;&emsp;1- I have described the data I got from Kaggle.<br />
